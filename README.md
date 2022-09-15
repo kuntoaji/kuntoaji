@@ -7,15 +7,13 @@
 - 📫 How to reach me: kontak[at]kaklabs.com
 - ⚡ Fun fact: I love eating good food
 
+### Top Languages
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuntoaji&layout=compact&theme=onedark)
+
 ### Stats
 
-<a href="https://github.com/kuntoaji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuntoaji&show_icons=true&theme=onedark" />
-</a>
-
-<a href="https://github.com/kuntoaji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntoaji&layout=compact&theme=onedark" />
-</a>
+![Kunto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuntoaji&show_icons=true&theme=onedark)
 
 <!--
 **kuntoaji/kuntoaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
