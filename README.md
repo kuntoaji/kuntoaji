@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🏢 I’m currently working on Dropsuite Pte. Ltd
-- 🌱 I’m currently learning `C#`, `Docker`, and `Go`
-- ⚙️ I use daily: `ruby`, `html`, `css`, `js`, `go`, `c#`
+- 🌱 I’m currently learning `c#`, `aws lambda`, `ms graph api`, `docker`, and `go`
+- ⚙️ I use daily: `ruby`, `html`, `css`, `js`, `go`, `c#`, `docker`
 - 🔭 Created: [KAK Tools](https://tools.kaklabs.com), [KAK Labs](https://www.kaklabs.com), [Railsmine](https://www.railsmine.net), etc…
 - 📫 How to reach me: kontak[at]kaklabs.com
 - ⚡ Fun fact: I love eating good food
