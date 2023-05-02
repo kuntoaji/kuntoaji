@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏢 I’m currently working on Dropsuite Pte. Ltd
-- 🌱 I’m currently learning `c#`, `aws lambda`, `ms graph api`, `docker`, and `go`
+- 🌱 I’m currently learning `c#`, `aws`, `ruby`, `shell script`, and `prompt engineering`
 - ⚙️ I use daily: `ruby`, `html`, `css`, `js`, `go`, `c#`, `docker`
 - 🔭 Created: [KAK Tools](https://tools.kaklabs.com), [KAK Labs](https://www.kaklabs.com), [Railsmine](https://www.railsmine.net), etc…
 - 📫 How to reach me: kontak[at]kaklabs.com
@@ -14,10 +14,6 @@
 ### Stats
 
 ![Kunto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuntoaji&show_icons=true&theme=onedark)
-
-### Badges
-
-[![@kuntoaji's Holopin board](https://holopin.me/kuntoaji)](https://holopin.io/@kuntoaji)
 
 <!--
 **kuntoaji/kuntoaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
