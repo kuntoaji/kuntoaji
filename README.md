@@ -1,31 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-- 🏢 I’m currently working on Dropsuite Pte. Ltd
-- 🌱 I’m currently learning `c#`, `aws`, `ruby`, `shell script`, and `prompt engineering`
-- ⚙️ I use daily: `ruby`, `html`, `css`, `js`, `go`, `c#`, `docker`
-- 🔭 Created: [KAK Tools](https://tools.kaklabs.com), [KAK Labs](https://www.kaklabs.com), [Railsmine](https://www.railsmine.net), etc…
-- 📫 How to reach me: kontak[at]kaklabs.com
-- ⚡ Fun fact: I love eating good food
+I'm Aji, a Software Engineer and an [AWS Certified Solution Architect Associate](https://www.credly.com/badges/36cc2fdb-12f4-47e0-a430-f8ab09de60fb). Currently, I work at Dropsuite Pte. Ltd, where I focus on ensuring the security of our applications.
+
+🔭 I've created [KAK Tools](https://tools.kaklabs.com), a collection of my personal tools.
+
+🏢 In addition to my work, I also maintain two blogs: [KAK Labs](https://www.kaklabs.com) and [Railsmine](https://www.railsmine.net), where I share insights and experiences in the tech industry.
+
+📫 Want to chat or collaborate? Reach out to me at kontak[at]kaklabs.com.
 
 ### Top Languages
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuntoaji&layout=compact&theme=onedark)
-
-### Stats
-
-![Kunto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuntoaji&show_icons=true&theme=onedark)
-
-<!--
-**kuntoaji/kuntoaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
