@@ -11,6 +11,3 @@ I'm Aji, a Software Engineer and an [AWS Certified Solution Architect Associate]
 ### Top Languages
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuntoaji&layout=compact&theme=onedark)
-
-```math
-\ce{$\unicode[background: url('https://raw.githubusercontent.com/kuntoaji/kuntoaji/main/kak-labs.png');]{x0000}$}
